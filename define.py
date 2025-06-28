@@ -37,6 +37,7 @@ class SHELF_CMD_LED(Enum):
     MOVING = 2
     DETECT_CST = 3
     EMG = 4
+    ERROR = 5
 
 # 陳列動作指令値のIDの定義
 class SHELF_CMD_ID(Enum):
